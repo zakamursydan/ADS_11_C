@@ -1,0 +1,19 @@
+2. Deskripsi Umum
+2.1 Tentang Perangkat Lunak
+    Perangkat Lunak yang kami buat adalah KirTaKir(Kirim Cetak Kirim), adalah Perangkat Lunak berjenis jasa Percetakan Dokumen dan Pengiriman Dokumen
+    dalam bentuk fisiknya, perangkat lunak ini direncanakan beroperasi di lingkup Kota Malang, Jawa Timur.
+
+2.2 Fungsi-fungsi Perangkat Lunak
+    Perangkat Lunak berbasis Mobile atau Android ini berfungsi sebagai pihak ketiga dalam percetakan dan pengiriman dokumen yang dapat membantu
+    aktifitas masyarakat dalam mencetak dokumen bahkan mengirim dokumen secara nyata bukan digital.
+
+2.3 Karakteristik dan Klasifikasi Pengguna
+
+2.4 Lingkungan Operasi
+
+2.5 Batasan Desain dan implementasi
+
+2.6 Dokumentasi Bagi Pengguna
+
+2.7 Asumsi dan Ketergantungan
+
