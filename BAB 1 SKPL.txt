@@ -1,0 +1,78 @@
+Abstrak:
+
+Dokumen berisikan tentang project perangkat lunak Sistem Informasi KIRTAKKIR (Kirim Cetak Kirim) yang berfungsi sebagai jasa penyedia layanan pengiriman & percetakan berkas dokumen dan sejenisnya.
+KIRTAKKIR merupakan sebuah layanan yang bergerak di bidang pendistribusian dokumen atau hard file secara cepat dan aman. 
+Aplikasi ini dapat dinikmati oleh berbagai lapisan masyarakat. Fitur yang terdapat dalam aplikasi KIRTAKKIR yakni home, profil, cetak & kirim, history, bahasa, bantuan, setting.
+Sistem ini berbasis aplikasi android
+
+ 
+                                                                BAB 1
+                                                             PENDAHULUAN
+
+1.1 Latar Belakang
+
+Di era digital, segala hal dalam kehidupan sehari-sehari sudah menerapkan IT mulai dari segi sosial, ekonomi, pendidikan dan sebagainya.
+Dalam kehidupan sehari-hari, masyarakat di lingkungan kantor, sekolah maupun kampus juga memiliki kebutuhan khusus seperti pengiriman dokumen.
+Akan tetapi, apabila menggunakan layanan jasa antar pengiriman maka akan membutuhkan waktu yang lama setidaknya 2-3 hari.
+Oleh karena itu, muncullah sebuah inovasi baru yakni aplikasi KIRTAKKIR (Kirim Cetak Kirim) berbasis android.
+KIRTAKKIR berfungsi sebagai jasa penyedia layanan pengiriman & percetakan berkas dokumen dan sejenisnya.
+KIRTAKKIR merupakan sebuah layanan yang bergerak di bidang pendistribusian dokumen atau hard file secara cepat dan aman. 
+Aplikasi ini dapat dinikmati oleh berbagai lapisan masyarakat. Fitur yang terdapat dalam aplikasi KIRTAKKIR yakni home, profil, cetak & kirim, history, bahasa, bantuan, setting.
+Diharapkan dengan adanya aplikasi ini dapat membantu masyarakat dalam mendistribusikan dokumen ke lokasi tujuan secara cepat.
+
+<1.2 Tujuan>
+1. Mempermudah dalam pendistribusian berkas dokumen
+2. Mempercepat pengiriman dokumen
+3. Sebagai layanan percetakan dokumen secara online
+
+
+<1.3 Ruang Lingkup Perangkat Lunak>
+
+KIRTAKKIR berfungsi sebagai jasa penyedia layanan pengiriman & percetakan berkas dokumen dan sejenisnya secara cepat dan aman. 
+Aplikasi ini dapat dinikmati oleh berbagai lapisan masyarakat. Sasaran utama ditujukan pada ruang lingkup kantor, lembaga/instansi/perusahaan, sekolah, kampus dan sejenisnya.
+
+<1.4 Target Audience>
+Dokumen ini ditujukan kepada pihak pengelola (jasa percetakan dokumen & jasa antar) dan pihak Customer/User untuk dipahami
+
+<1.4.1 Pengelola Jasa Cetak & Antar>
+1. Diharapkan pihak pengelola (jasa percetakan dokumen & jasa antar)dapat memahami cara kerja KIRTAKKIR dalam implementasinya
+2. Pihak pengelola dapat melakukan perubahan sistem yang dibuat secara mandiri setelah memperoleh izin dari pihak pengembang.
+3. Segera hubungi pihak developer bila terjadi bug, down server atau kerusakan lainnya.
+4. Diharapkan admin rutin dalam melakukan pengecekan terhadap aktivitas yang mencurigakan.
+5. Pihak developer rutin melakukan maintenance
+
+<1.4.2 Customer/User>
+1. Diharapkan dapat memahami secara baik dokumen ini.
+2. Dilarang menyebarluaskan dokumen kepada siapapun.
+3. Diharapkan pengguna memahami fungsi dan cara pengoperasian KIRTAKKIR secara benar.
+
+<1.5 Definisi, Istilah dan Singkatan>
+Guna memberikan gambaran yang sama terhadap beberapa definisi,
+istilah dan singkatan yang digunakan di dokumen ini, perlu dijelaskan
+sebagaimana berikut:
+
+1. IEEE	:	Institute of Electrical and Electronics Engineers adalah standart internasional untuk pengembang perangkat lunak
+2. SKPL	:	Spesifikasi Kebutuhan Perangkat Lunak atau
+3. SRS	:	Software Requirement Specification atau dokumen hasil analisis sebuah perangkat lunak yang berisi spesifikasi kebutuhan pengguna
+4. Kebutuhan Fungsional : Kebutuhan yang dapat dilakukan oleh admin atau pengelolah yayasan
+5. Kebutuhan Non Fungsional : Fitur yang diberikan oleh pihak pengembang kepada KIRTAKKIR
+6. Use Case Diagram : DIagram alur kerja sistem dalam penerapanya
+
+<1.6 Referensi>
+
+Berikut adalah daftar acuan yang digunakan dalam pendokumentasian spesifikasi kebutuhan perangkat lunak ini.
+
+•	IEEE Std. 1233, 1998 Edition IEEE Guide for Developing System Requirements Specifications
+
+•	IEEE, Software Requirements Engineering, Second Edition, IEEE Computer Society Press, 2002.
+
+•	Bray, Ian K. An Introduction to Requirement Engineering, 1st published, Addison-Wesley, 2002
+
+•	Kotonya, Gerald and Sommerville, Ian. Requirement Engineering: Processes and Techniques, John Wiley & Sons Ltd, 1998
+
+•	Holil, Achmad. Template: Spesifikasi Kebutuhan Perangkat Lunak, Jurusan Sistem Informasi ITS, 2006.
+
+<1.7 Ikhtisar Dokumen>
+Diharapkan dengan pembuatan SKPL KIRTAKKIR dapat memberikan pengetahuan serta pemahaman pengelola dalam pengoperasian KIRTAKKIR.
+Diharapkan KIRTAKKIR dapat menjadi solusi yang tepat dalam mengatasi permasalahan yang ada.
+
